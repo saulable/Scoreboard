@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/saulable/Scoreboard/issues"
   },
-  "homepage": "https://github.com/saulable/Scoreboard#readme"
+  "homepage": "https://github.com/saulable/Scoreboard#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
